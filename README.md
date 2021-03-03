@@ -3,10 +3,9 @@ A prototype set of keywords for search campaigns is Google adwords – selectin
 
 Keywords can be broadly organized into the following types:
 
-* Brand terms – any keywords containing your brand name and trademarked terms.
+* Brand/product terms – any keywords containing your brand name and trademarked terms.
 * Generic terms – terms relating to products (e-commerce keywords) or services offered.
-* Related terms – terms that don’t directly relate to what you’re selling, but that users who want your products or services may be searching for.
-* Competitor terms – the brand names of competitors who are offering similar products and services to yours.
+
 
 To build a search campaign to sell shoes. 
 Products | Words
